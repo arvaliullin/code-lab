@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeLab.md",
+                "file": "postgresql/PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CodeLab"
+              "title": "PostgreSQL"
             }
           }
         ]
@@ -170,6 +170,16 @@
   },
   "active": "e9bb3bbe954d989b",
   "lastOpenFiles": [
-    "CodeLab.md"
+    "kafka/Kafka.md",
+    "golang/Golang.md",
+    "postgresql/PostgreSQL.md",
+    "golang",
+    "microservices/Microservices.md",
+    "algorithms/Algorithms.md",
+    "CodeLab.md",
+    "kafka",
+    "postgresql",
+    "microservices",
+    "algorithms"
   ]
 }
